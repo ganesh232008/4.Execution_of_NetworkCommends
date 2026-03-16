@@ -133,26 +133,34 @@ client.close()
 1.Ping
 
 Server
+![image alt](https://github.com/ganesh232008/4.Execution_of_NetworkCommends/blob/3da5c234b6953818bad887d1cadaf45951147b74/Screenshot%202026-03-15%20211723.png)
 
 Client
+![image alt](https://github.com/ganesh232008/4.Execution_of_NetworkCommends/blob/3da5c234b6953818bad887d1cadaf45951147b74/Screenshot%202026-03-15%20211753.png)
 
 2.Tracert
 
 Server
+![image alt](https://github.com/ganesh232008/4.Execution_of_NetworkCommends/blob/3da5c234b6953818bad887d1cadaf45951147b74/Screenshot%202026-03-15%20212042.png)
 
 Client
+![image alt](https://github.com/ganesh232008/4.Execution_of_NetworkCommends/blob/3da5c234b6953818bad887d1cadaf45951147b74/Screenshot%202026-03-15%20212111.png)
 
 3.Nslookup
 
 Server
+![image alt](https://github.com/ganesh232008/4.Execution_of_NetworkCommends/blob/3da5c234b6953818bad887d1cadaf45951147b74/Screenshot%202026-03-15%20212222.png)
 
 Client
+![image alt](https://github.com/ganesh232008/4.Execution_of_NetworkCommends/blob/3da5c234b6953818bad887d1cadaf45951147b74/Screenshot%202026-03-15%20212207.png)
 
 4.Netstat
 
 Server
+![image alt](https://github.com/ganesh232008/4.Execution_of_NetworkCommends/blob/3da5c234b6953818bad887d1cadaf45951147b74/Screenshot%202026-03-15%20212329.png)
 
 Client
+![image alt](https://github.com/ganesh232008/4.Execution_of_NetworkCommends/blob/3da5c234b6953818bad887d1cadaf45951147b74/Screenshot%202026-03-15%20212316.png)
 
 
 ## Result
